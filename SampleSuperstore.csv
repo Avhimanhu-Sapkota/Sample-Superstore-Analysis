@@ -1,0 +1,28 @@
+﻿Row Labels,Sum of Sales
+California,457687.6315
+Florida,89473.708
+Illinois,80166.101
+Michigan,76269.614
+New York,310876.271
+Ohio,78258.136
+Pennsylvania,116511.914
+Texas,170188.0458
+Virginia,70636.72
+Washington,138641.27
+Grand Total,1588709.411
+,
+,
+,
+,
+Row Labels,Sum of Sales
+California,"457,687.63"
+New York,"310,876.27"
+Texas,"170,188.05"
+Washington,"138,641.27"
+Pennsylvania,"116,511.91"
+Florida,"89,473.71"
+Illinois,"80,166.10"
+Ohio,"78,258.14"
+Michigan,"76,269.61"
+Virginia,"70,636.72"
+Grand Total,"1,588,709.41"
